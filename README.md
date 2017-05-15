@@ -4,5 +4,6 @@
 # 使用方式
 //设置红点里的数字,限制0-99.<br>
 mRedDotImageView.setMsgNum(int msgNum);<br>
+<br>
 //设置红点的大小,限制2-10;数字越小红点越大.<br>
 mRedDotImageView.setRedDotSize(int msgNum); <br>
